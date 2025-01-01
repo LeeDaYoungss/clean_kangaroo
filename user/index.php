@@ -83,14 +83,17 @@ while ($rs = $resultrb->fetch_object()) {
     <hr>
     <div class="popct02">
       <strong>업무분장</strong>
-      <p><strong>기획:</strong> 팀원 전체</p>
+      <p><strong>기획:</strong> 벤치마킹(팀원 전체), 사이트맵(추송림), 스타일 가이드/로고 디자인(이다영)</p>
       <p><strong>디자인:</strong> 추송림(50%) 이다영(50%)</p>
       <div class="workset_area02">
         <strong>- 구현 완료 페이지 -</strong>
         <p>추송림: 로그인,회원가입,마이페이지,강좌 상세페이지,장바구니</p>
         <p>박선진: 공지사항, 큐앤에이</p>
         <p>이다영: 강좌 리스트, 이벤트, 수강평</p>
-        <p>메인페이지 팀원 전체작업</p>
+        <p>-메인 페이지-</p>
+        <p>추송림: 헤더, 공지사항</p>
+        <p>박선진: 강좌소개</p>
+        <p>이다영: 메인배너, 타임배너, 리뷰, 이벤트, 푸터</p>
       </div>
     </div>
     <hr>
